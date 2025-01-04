@@ -12,3 +12,4 @@ This project aims to predict housing prices using different regression technique
 ~Create a pipeline for performing linear regression using multiple features in polynomial scaling
 ---
 ~Use the grid search with cross-validation and ridge regression to create a model with optimum hyperparameters
+---
